@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e01300c06e79040808d4ea3d787cfebd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - CROOKED
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d264d4654484c405686de715524a8bb0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
